@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "kgv8iVFnn14A042p0JTL1LtK74JcMKMLh6j0vaYi/ZdD5z3t5pzP13HAzD9n9g+mqMrxAPC0dAgu+XfdVSl+mA==",
+  "success": true,
+  "projectFilePath": "D:\\УЧЬОБА\\1дистанца\\тестирование\\UnitTestingExamples-main\\UnitTestEx\\UnitTestEx\\FileStorage\\FileStorage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilyal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ilyal\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",
+    "C:\\Users\\ilyal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ilyal\\.nuget\\packages\\nunit\\3.13.0\\nunit.3.13.0.nupkg.sha512",
+    "C:\\Users\\ilyal\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"NUnit3TestAdapter 4.2.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.deps.json
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\FileStorage.pdb
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csprojAssemblyReference.cache
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfoInputs.cache
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.AssemblyInfo.cs
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.pdb
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\nunit.engine.core.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\bin\Debug\netstandard2.0\testcentric.engine.metadata.dll
+D:\УЧЬОБА\1дистанца\тестирование\UnitTestingExamples-main\UnitTestEx\UnitTestEx\FileStorage\obj\Debug\netstandard2.0\FileStorage.csproj.CoreCompileInputs.cache
